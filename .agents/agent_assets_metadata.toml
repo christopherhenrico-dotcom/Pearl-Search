@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "suiz3ZQ08ILSUBuu7Rzrp"
+uri = "file://pearl-cli-1.0.0.tar.gz"
+type = "unspecified"
+title = "Pearl CLI 1.0.0 — The Pirate's Media CLI"
+description = "Complete source tarball for Arch Linux. Extract and run bash install.sh to install."

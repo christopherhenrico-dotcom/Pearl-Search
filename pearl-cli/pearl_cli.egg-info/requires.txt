@@ -1,0 +1,12 @@
+click>=8.1
+rich>=13.0
+requests>=2.31
+
+[:python_version < "3.11"]
+tomli>=2.0
+
+[all]
+yt-dlp>=2024.1.1
+
+[ytdlp]
+yt-dlp>=2024.1.1
